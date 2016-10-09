@@ -26,5 +26,10 @@ p {
 }
 .note {
   background-image: url("images/list-bg.png");
-  text-indent: 5%;
+
+}
+.end {
+  text-align: center;
+  margin-right: 100px;
+
 }
