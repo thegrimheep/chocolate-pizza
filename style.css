@@ -1,6 +1,7 @@
 html {
-  margin-left: 200px;
-  margin-right: 200px:
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
 
 }
 
@@ -13,10 +14,17 @@ text-align: left;
 }
 .ico {
   float:right;
-  margin-right: 100px;
+
 
 }
 
 p {
-  margin-right: 100px;
+  text-indent: 5%;
+}
+.pri {
+  float: right;
+}
+.note {
+  background-image: url("images/list-bg.png");
+  text-indent: 5%;
 }
